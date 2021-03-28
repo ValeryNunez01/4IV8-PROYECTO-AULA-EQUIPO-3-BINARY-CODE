@@ -1,0 +1,13 @@
+.imagenes {
+
+    animation: fadeInDown;
+    animation-duration: 4s;
+
+}
+
+.imagenes2 {
+
+    animation: pulse;
+    animation-duration: 3s;
+
+}
